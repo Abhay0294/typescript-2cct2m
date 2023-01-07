@@ -1,3 +1,4 @@
-# typescript-2cct2m
+# TypeScript Concepts
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-2cct2m)
+This repository contains:
+1.Concept of singleton class
